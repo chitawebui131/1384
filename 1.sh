@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hi, DevOps - 1384!"
+echo "Hi, UA1384!"
